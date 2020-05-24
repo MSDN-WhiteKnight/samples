@@ -1,3 +1,14 @@
+---
+languages:
+   - csharp
+ products:
+   - dotnet-core
+   - windows
+page_type: sample
+name: "ComWrappers API Demo"
+description: "A sample Windows Forms application that demonstrates how to implement and utilize the ComWrappers API by manually implementing a subset of IDispatch for .NET objects"
+---
+
 `ComWrappers` API Demo
 ================
 

@@ -1,3 +1,14 @@
+---
+languages:
+   - csharp
+   - cpp
+ products:
+   - dotnet-core
+page_type: sample
+name: ".NET Core P/Invoke marshaling sample"
+description: "A sample that demonstrates different ways to marshal arguments to native function when using P/Invoke"
+---
+
 .NET Core PInvoke Marshaling Sample
 ================
 
